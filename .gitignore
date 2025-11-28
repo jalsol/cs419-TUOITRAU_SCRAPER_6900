@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Crawl outputs (historical snapshots only)
+data/
+audio/
+images/
+data_prev_*/
+audio_prev_*/
+images_prev_*/
+
+# Misc runtime artifacts
+uv.lock
